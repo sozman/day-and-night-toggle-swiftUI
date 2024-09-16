@@ -1,6 +1,6 @@
 # Day-and-Night-Toggle-SwiftUI
 
-A custom toggle switch for SwiftUI that provides a beautiful day-night animation without using any asset images. This component is highly customizable, lightweight, and seamlessly integrates with any SwiftUI project.
+A custom toggle switch for SwiftUI that provides a beautiful day-night animation without using any asset images. This component is highly customizable, lightweight, and seamlessly integrates with any SwiftUI project. By leveraging ChatGPT, I explored the possibilities of creating dynamic, animation-driven UI components that enhance user experience while keeping the implementation clean and efficient.
 
 ## Features
 
