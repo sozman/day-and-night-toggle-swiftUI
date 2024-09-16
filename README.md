@@ -69,7 +69,7 @@ struct PreviewWrapper: View {
         }
     }
 }
-```swift
+```
 
 ## Requirements
 
